@@ -10,5 +10,5 @@ npm install archieml
 # Usage
 the script needs three arguments
 ```
-node read_in.js TEXTFILE.TXT
+node read_in.js TEXTFILE
 ```
